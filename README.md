@@ -7,7 +7,7 @@ I'm a passionate **Fullstack Software Engineer** dedicated to building standout 
 ## 🚀 Top Skills
 
 - **Backend/API Development:** PHP (Laravel), Node.js
-- **Frontend:** React, Vue.js, Next.js, Nuxt.js, AngularJS
+- **Frontend:** React, Vue.js, Next.js, Nuxt.js, AngularJS, Tailwind CSS, Shadcdn, Bulma
 - **DevOps & CI/CD:** Bitbucket, GitHub
 - **Databases:** MySQL, PostgreSQL, MongoDB, Supabase
 - **Cloud & Hosting:** Netlify, Vercel
